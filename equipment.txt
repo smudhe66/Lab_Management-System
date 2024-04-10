@@ -1,0 +1,157 @@
+
+100000
+1602 LED
+45
+200000
+Remote Controller
+39
+300000
+LDR(Light sensor)
+46
+400000
+IR Reciever
+40
+500000
+LM35(Temp.Sensor)
+30
+600000
+Colour Sensor
+28
+700000
+Vibration Sensor
+24
+800000
+Himidity Sensor
+31
+900000
+Solar Cell Light Sensor
+32
+1000000
+Metal Detector
+44
+1100000
+PCM Board
+44
+1200000
+Tilt Switch
+43
+1300000
+Touch Switch
+20
+1400000
+Ardino 300
+47
+1500000
+Raspberry Pi
+34
+1600000
+GSI SIM Module 300
+54
+1700000
+Barometer
+24
+1800000
+DS18B20 Temp.Sensor
+46
+1900000
+Passive Buzzer
+10
+2000000
+Sound Buzzer
+31
+2100000
+Auto Flash LED
+54
+2200000
+Dual Colour LED
+33
+2300000
+Photo Interprretor
+29
+2400000
+Switch Hall
+12
+2500000
+Analog Hall
+21
+2600000
+Flame Sensor
+10
+2700000
+Photo Resister
+8
+2800000
+Terimenator module
+6
+2900000
+Analog Hall
+23
+3000000
+Humiture Sensor
+7
+3100000
+Potensiometer
+18
+3200000
+Jyostick PS2 Module
+12
+3300000
+Active Buzzer
+1
+3400000
+Infrared Reciever
+9
+3500000
+Reed Switch
+34
+3600000
+MQ-2 Gas Sensor
+19
+37000000
+Button Module
+25
+3800000
+Laser Transister
+42
+3900000
+RGB LED
+27
+4000000
+Relay Module
+36
+4100000
+ADDA Converter
+42
+4200000
+Mercury Switch
+22
+4300000
+Rotary Encoder
+12
+4400000
+Tracking Sensor
+-304
+4500000
+MPU6050
+6
+4600000
+Obstacle Avoidance
+9
+4700000
+RTC-DS1302
+12
+4800000
+Ultrasonic
+22
+4900000
+GPIIO Extension Board
+9
+5000000
+Raindrop Sensor
+4
+5100000
+Gyroscope Sensor
+12
+5200000
+Alcohol Sensor
+16
